@@ -63,10 +63,10 @@ cursor: pointer;
    background-color:  #B4D1E0;
 }
 .slide-2{
-   background:  #B4D url("../Image.png") no-repeat top right 30%;
+   background:  #B4D url("..//Image.png") no-repeat top right 30%;
 }
 .slide-3{
-   background:#B467 url('../Image.png') no-repeat top right 30%;
+   background:#B467 url('./Image.png') no-repeat top right 30%;
 }
 
 .slide{

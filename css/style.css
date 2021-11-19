@@ -107,7 +107,7 @@ max-width: 335px;
 margin-bottom: 40px;
 }
 .slide-1{
-   background: #B4D1E0 url('./image-064.png') no-repeat top right 30%;
+   background: #B4D1E0 url(../image-064.png) no-repeat top right 30%;
 }
 .slider{
    position: relative;
@@ -137,27 +137,27 @@ padding-bottom: 80px;
 
 .card-1{
 
-   background:  #E3E2E3 url('./card-image1.jpg') no-repeat top right;
+   background:  #E3E2E3 url(.//card-image1.jpg) no-repeat top right;
 
    background-size: cover;
  
 }
 .card-2{
 
-   background:  #000000 url('./card-image2.jpg') no-repeat top right;
+   background:  #000000 url(./card-image2.jpg) no-repeat top right;
  
    background-size: cover;
  
 }
 .card-3{
-   background: #CCD5E6 url('./card-image3.png') no-repeat top right 10%;
+   background: #CCD5E6 url('../card-image3.png') no-repeat top right 10%;
   padding-top: 35px;
    background-size: contain;
   
 }
 
 .card-4{
-   background: #FF4F52 url('./card-image4.png') no-repeat top right ;
+   background: #FF4F52 url('.//card-image4.png') no-repeat top right ;
    padding-top: 35px;
    padding-left: 25px;
     background-size: contain;

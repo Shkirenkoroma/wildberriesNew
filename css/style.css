@@ -107,7 +107,7 @@ max-width: 335px;
 margin-bottom: 40px;
 }
 .slide-1{
-   background: #B4D1E0 url(../image-064.png) no-repeat top right 30%;
+   background: #B4D1E0 url(".//image-064.png") no-repeat top right 30%;
 }
 .slider{
    position: relative;
